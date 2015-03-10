@@ -1,0 +1,17 @@
+Script started on 2015年03月10日 (週二) 17時18分49秒
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ ls
+lab1.script
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ whoami;pwd
+F74036158
+/home/F74036158
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ git config -l
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ echo $?
+0
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ f[Kgit clone https://github.com/G[KF74036158/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ git clone https://github.com/F74036158/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74036158@2015cpp: ~F74036158@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時21分32秒
